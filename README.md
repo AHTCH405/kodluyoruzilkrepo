@@ -8,4 +8,4 @@ README dosyası, bir adet de index.html barındırıyor.
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 
-`https://github.com/AHTCH405/kodluyoruzilkrepo.git`
+```https://github.com/AHTCH405/kodluyoruzilkrepo.git```
